@@ -2,8 +2,8 @@ site_name: 稲川淳二 恐怖の現場シリーズ ニコニコ動画まとめ
 
 theme:
   name: material
+  logo: material/moon-waning-crescent
   language: ja
-
   palette:
 
     # Dark mode (default)
