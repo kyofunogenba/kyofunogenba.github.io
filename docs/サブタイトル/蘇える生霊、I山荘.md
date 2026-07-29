@@ -1,7 +1,7 @@
 
-## 動画1
+## 動画リンク1
 
-### 淳二の野望DX "間違いなくTBN" ノ章 1/5
+### [淳二の野望DX "間違いなくTBN" ノ章 1/5](https://www.nicozon.net/player.html?video_id=sm17096623)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm17096623"
@@ -11,7 +11,7 @@
   allowfullscreen>
 </iframe>
 
-### 淳二の野望DX "間違いなくTBN" ノ章 2/5
+### [淳二の野望DX "間違いなくTBN" ノ章 2/5](https://www.nicozon.net/player.html?video_id=sm17096986)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm17096986"
@@ -21,7 +21,7 @@
   allowfullscreen>
 </iframe>
 
-### 淳二の野望DX "間違いなくTBN" ノ章 3/5
+### [淳二の野望DX "間違いなくTBN" ノ章 3/5](https://www.nicozon.net/player.html?video_id=sm17097361)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm17097361"
@@ -31,7 +31,7 @@
   allowfullscreen>
 </iframe>
 
-### 淳二の野望DX "間違いなくTBN" ノ章 4/5
+### [淳二の野望DX "間違いなくTBN" ノ章 4/5](https://www.nicozon.net/player.html?video_id=sm17097705)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm17097705"
@@ -41,7 +41,7 @@
   allowfullscreen>
 </iframe>
 
-### 淳二の野望DX "間違いなくTBN" ノ章 5/5
+### [淳二の野望DX "間違いなくTBN" ノ章 5/5](https://www.nicozon.net/player.html?video_id=sm17098121)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm17098121"
@@ -51,9 +51,9 @@
   allowfullscreen>
 </iframe>
 
-## 動画2
+## 動画リンク2
 
-### 【MAD】　吐き芸おじさんの冒険　ラッポン編　その１
+### [【MAD】　吐き芸おじさんの冒険　ラッポン編　その1](https://www.nicozon.net/player.html?video_id=sm12498025)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm12498025"
@@ -63,7 +63,7 @@
   allowfullscreen>
 </iframe>
 
-### 【MAD】　吐き芸おじさんの冒険　ラッポン編　その2
+### [【MAD】　吐き芸おじさんの冒険　ラッポン編　その2](https://www.nicozon.net/player.html?video_id=sm12498331)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm12498331"
@@ -73,7 +73,7 @@
   allowfullscreen>
 </iframe>
 
-### 【MAD】　吐き芸おじさんの冒険　ラッポン編　その3
+### [【MAD】　吐き芸おじさんの冒険　ラッポン編　その3](https://www.nicozon.net/player.html?video_id=sm12498405)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm12498405"
@@ -83,7 +83,7 @@
   allowfullscreen>
 </iframe>
 
-### 【MAD】　吐き芸おじさんの冒険　ラッポン編　その4
+### [【MAD】　吐き芸おじさんの冒険　ラッポン編　その4](https://www.nicozon.net/player.html?video_id=sm12498458)
 
 <iframe
   src="https://www.nicozon.net/player.html?video_id=sm12498458"
