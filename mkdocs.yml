@@ -16,7 +16,7 @@ theme:
   palette:
     # Dark mode (default)
     - scheme: slate
-      primary: blue grey
+      primary: black
       accent: red
       toggle:
         icon: material/eye-outline
