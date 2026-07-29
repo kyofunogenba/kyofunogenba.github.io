@@ -1,13 +1,21 @@
-site_name: 稲川淳二 恐怖の現場シリーズ ニコニコ動画まとめ
+site_name: 恐怖の現場 ニコ動画まとめ
 
 theme:
   name: material
   language: ja
+  icon:
+    logo: material/ghost
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - search.suggest
+    - search.highlight
+    
   palette:
-
     # Dark mode (default)
     - scheme: slate
-      primary: blue grey
+      primary: black
       accent: red
       toggle:
         icon: material/weather-sunny
@@ -15,28 +23,21 @@ theme:
 
     # Light mode
     - scheme: default
-      primary: brown
-      accent: deep orange
+      primary: grey
+      accent: red
       toggle:
         icon: material/weather-night
         name: ダークモードへ変更
-
+        
 # Extensions
 markdown_extensions:
   - footnotes
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - def_list
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search
