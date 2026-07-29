@@ -19,7 +19,7 @@ theme:
       primary: blue grey
       accent: red
       toggle:
-        icon: material/weather-sunny
+        icon: material/eye-outline
         name: ライトモードへ変更
 
     # Light mode
@@ -27,7 +27,7 @@ theme:
       primary: brown
       accent: red
       toggle:
-        icon: material/weather-night
+        icon: material/eye
         name: ダークモードへ変更
         
 # Extensions
