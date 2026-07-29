@@ -16,7 +16,7 @@ theme:
   palette:
     # Dark mode (default)
     - scheme: slate
-      primary: black
+      primary: blue grey
       accent: red
       toggle:
         icon: material/weather-sunny
@@ -24,7 +24,7 @@ theme:
 
     # Light mode
     - scheme: default
-      primary: grey
+      primary: brown
       accent: red
       toggle:
         icon: material/weather-night
